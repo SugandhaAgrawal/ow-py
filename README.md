@@ -8,7 +8,7 @@ This repo contains a manifest file for deploying the following assets:
 ## Deploy
 Look through the manifest.yaml file and provide the required environment variables.
 
-Download wskdeploy from here [wskdeploy download](https://github.com/apache/incubator-openwhisk-wskdeploy/releases) and add `wskdeploy` to your PATH
+Download [wskdeploy](https://github.com/apache/incubator-openwhisk-wskdeploy/releases) and add `wskdeploy` to your PATH
 
 Use `wskdeploy` to deploy using [`manifest.yml`](./manifest.yml).
 ```
